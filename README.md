@@ -28,6 +28,8 @@ No data is collected. No accounts are required. Nothing is stored.
 - Each legislator button generates a `mailto:` link with subject and body pre-populated
 - A personalized phone call script is generated automatically at Step 3
 - Hosted free on GitHub Pages; embeds on any website with one line of code
+- The G-XXXXXXXXXX placeholder in <head> needs to be replaced with a real Google Analystics Measurement ID
+- Add mcoc-logo.png to the repo root to display your council logo in the header
 
 ---
 
